@@ -3,251 +3,348 @@
 
 # 👋 Olá, eu sou Lúcio Fábio Barbosa de Lima
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (Dezembro 2026)
+** Formação Acadêmica** 
 
-Graduado em Tecnologia em Petróleo e Gás;
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU (EAD)**  
+📅 Previsão de conclusão: dezembro de 2026
 
-Graduado em Gestão de Recursos Humanos;
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas — Faculdade SENAC (Presencial)**  
+📅 Previsão de conclusão: dezembro de 2028
 
-Pós Graduado em Engenharia de Produção;
+🎓 **Graduado em Tecnologia em Petróleo e Gás**
 
-Pós Graduado em Elaboração e Gerenciamento de Projetos
+🎓 **Graduado em Gestão de Recursos Humanos**
 
-📊 **Estudante do Curso Full Stack de Dados & Analytics - Pod Academy**
+🎓 **Pós Graduado em Engenharia de Produção**
 
-📘 **Estudante do Curso SQL Simplificado - Prof. Mauro Higashi**
+🎓 **Pós Graduado em Elaboração e Gerenciamento de Projetos**
 
-📍 Natal - Brasil
 
-🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados**
+## 📚 Estudos e aperfeiçoamento técnico
+
+📊 **Full Stack Dados & Analytics — Pod Academy**  
+
+💻 **Full Stack Web com Node.js, JavaScript e TypeScript — 2026**
+
+📘 **SQL Simplificado — Professor Mauro Higashi**
+
+📍 Natal, Rio Grande do Norte, Brasil
+
+🎯 **Foco profissional:** Engenharia de Dados e Análise e Desenvolvimento de Sistemas.
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante focado em **Engenharia de Dados**, com forte interesse na construção de soluções baseadas em dados, pipelines escaláveis e análise eficiente de informações.
+Sou estudante de Análise e Desenvolvimento de Sistemas, direcionando minha formação para a **Engenharia de Dados e o Desenvolvimento de Sistemas**, com foco na construção de soluções tecnológicas integradas.
 
-Meus projetos são desenvolvidos como **aplicação prática dos conceitos, exercícios e atividades** adquiridos ao longo da minha jornada de aprendizado, com destaque para:
+Minha trajetória acadêmica combina conhecimentos de tecnologia, gestão, processos produtivos e gerenciamento de projetos. Sou graduado em Tecnologia em Petróleo e Gás e Gestão de Recursos Humanos, além de possuir pós-graduações em Engenharia de Produção e Elaboração e Gerenciamento de Projetos.
 
-* 📘 **Curso Full Stack de Dados - Pod Academy (ênfase em Engenharia de Dados)**
-* 📘 **Curso SQL Simplificado - Prof. Mauro Higashi**
-* 📚 Leituras técnicas:
+Essa formação multidisciplinar contribui para minha compreensão de processos, necessidades de negócio e desafios que podem ser resolvidos por meio da tecnologia.
 
-  * *Fundamentos da Engenharia de Dados (O'Reilly)**
-  * *Fundamentos da Qualidade de Dados (O'Reilly)**
-  * *Arquitetura de Dados (O'Reilly)*
-* 📖 eBooks:
+### 🔗 Engenharia de Dados e Desenvolvimento de Sistemas: uma visão integrada
 
-  * *A Arte da Query* (Prof. Mauro Higashi)
-  * *SQL Sem Medo* (Prof. Mauro Higashi)
+Entendo a Engenharia de Dados e o Desenvolvimento de Sistemas como **áreas complementares que trabalham juntas na construção de soluções tecnológicas completas**.
 
-Além disso, também aplico conhecimentos adquiridos em cursos de **Desenvolvimento Web**, utilizando **Python e Django**, integrando aplicações web com soluções de dados.
+O Desenvolvimento de Sistemas permite criar aplicações, interfaces, APIs, regras de negócio e funcionalidades que atendem às necessidades dos usuários. A Engenharia de Dados, por sua vez, permite construir processos para coletar, integrar, transformar, validar, armazenar e disponibilizar as informações utilizadas por essas aplicações.
 
-📌 **Importante:**
-Os projetos aqui apresentados têm como principal objetivo:
+Essas competências se conectam em um mesmo ecossistema tecnológico:
 
-* Colocar em prática conceitos técnicos
-* Consolidar aprendizado
-* Construir um portfólio sólido
+- 🌐 **Desenvolvimento de Sistemas:** construção de aplicações web, APIs, funcionalidades e integrações entre sistemas.
+- ⚙️ **Engenharia de Dados:** desenvolvimento de pipelines, automação de processos ETL/ELT, transformação e organização de informações.
+- 🗄️ **Bancos de Dados:** modelagem, armazenamento, consulta e gerenciamento dos dados utilizados pelas aplicações.
+- 🔗 **Integração tecnológica:** conexão entre aplicações, APIs, bancos de dados e pipelines de dados.
+- 🚀 **Soluções integradas:** desenvolvimento de sistemas capazes de produzir, consumir e disponibilizar informações de forma organizada e eficiente.
 
-➡️ **Não possuem viés empresarial no momento**, sendo voltados para evolução técnica e profissional.
+Na prática, uma aplicação pode coletar informações, armazená-las em um banco de dados e disponibilizá-las por meio de APIs. Os pipelines de dados podem processar essas informações, integrá-las com outras fontes e prepará-las para utilização por aplicações, relatórios e sistemas de apoio à operação.
 
-## 🎯 Objetivo
+É essa integração que orienta meus estudos e projetos. Meu objetivo é compreender como os componentes de software e os processos de dados trabalham em conjunto, desde a origem da informação até sua utilização em sistemas digitais.
 
-Atuar como **Engenheiro de Dados**, desenvolvendo:
+### 🚀 Minha abordagem de aprendizado
 
-* Pipelines de dados eficientes
-* Arquiteturas escaláveis
-* Soluções orientadas a dados
-* Integrações entre dados e aplicações
+Meus projetos são desenvolvidos como **aplicações práticas dos conhecimentos adquiridos em cursos, leituras técnicas, exercícios e atividades acadêmicas**.
+
+Por meio deles, busco:
+
+- Consolidar conhecimentos de programação e bancos de dados.
+- Construir e aprimorar pipelines de dados.
+- Desenvolver APIs e aplicações web.
+- Integrar sistemas e diferentes fontes de informação.
+- Aplicar conceitos de arquitetura e qualidade de dados.
+- Automatizar processos e organizar fluxos de informação.
+- Documentar soluções e adotar boas práticas de desenvolvimento.
+- Evoluir tecnicamente por meio da prática e da resolução de problemas.
+
+Atualmente, meus projetos têm foco predominantemente educacional e de construção de portfólio, servindo como ambiente de aprendizado, experimentação e evolução profissional.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎯 Objetivo profissional
 
-### 🗄️ Banco de Dados
+Construir uma carreira em tecnologia integrando **Engenharia de Dados e Análise e Desenvolvimento de Sistemas**, desenvolvendo soluções que conectem aplicações, APIs, bancos de dados, pipelines e infraestrutura.
 
-* MySQL
-* PostgreSQL
-* SQL Server
-* Oracle
+Busco desenvolver competências para participar da construção de soluções completas, compreendendo tanto o desenvolvimento dos sistemas quanto os processos responsáveis por organizar, transformar e disponibilizar os dados utilizados por eles.
 
-### 💻 Linguagens & Processamento
+Meus principais objetivos de aprendizado são:
 
-* Python
-* PySpark
-* Apache Spark
+- Engenharia e arquitetura de dados.
+- Construção e orquestração de pipelines.
+- Programação e automação com Python.
+- SQL, modelagem e qualidade de dados.
+- Desenvolvimento de aplicações web e APIs.
+- Integração entre sistemas e fontes de dados.
+- Docker, infraestrutura e computação em nuvem.
+
+**Meu propósito é transformar conhecimentos técnicos em soluções integradas que automatizem processos, organizem informações e gerem valor para empresas e para a sociedade.**
+
+---
+
+## 🎓 Formação acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** — UNINASSAU, modalidade EAD. Previsão de conclusão: dezembro de 2026.
+- **Análise e Desenvolvimento de Sistemas** — Faculdade SENAC, modalidade presencial. Previsão de conclusão: dezembro de 2028.
+- **Tecnologia em Petróleo e Gás** — graduação concluída.
+- **Gestão de Recursos Humanos** — graduação concluída.
+- **Engenharia de Produção** — pós-graduação concluída.
+- **Elaboração e Gerenciamento de Projetos** — pós-graduação concluída.
+
+---
+
+## 📚 Estudos e aperfeiçoamento técnico
+
+### Engenharia de Dados e SQL
+
+- Full Stack Dados & Analytics — Pod Academy, com ênfase em Engenharia de Dados.
+- SQL Simplificado — Professor Mauro Higashi.
+- *Fundamentos da Engenharia de Dados* — O'Reilly.
+- *Fundamentos da Qualidade de Dados* — O'Reilly.
+- *Arquitetura de Dados* — O'Reilly.
+- *A Arte da Query* — Professor Mauro Higashi.
+- *SQL Sem Medo* — Professor Mauro Higashi.
+
+### Desenvolvimento de Sistemas e Web Full Stack
+
+- Análise e Desenvolvimento de Sistemas.
+- Full Stack Web com Node.js, JavaScript e TypeScript — 2026.
+- Desenvolvimento web com Python e Django.
+- Construção de APIs e integração entre sistemas.
+- Desenvolvimento de interfaces com HTML, CSS e JavaScript.
+- Integração de aplicações com bancos de dados.
+
+---
+
+## 🛠️ Tecnologias e ferramentas 
+
+### 🗄️ Bancos de dados
+
+- MySQL
+- PostgreSQL
+- SQL Server
+- Oracle Database
+
+### 💻 Linguagens e processamento
+
+- Python
+- SQL
+- JavaScript
+- TypeScript
+- PySpark
+- Apache Spark
 
 ### ⚙️ Engenharia de Dados
 
-* Apache Airflow
-* ETL / ELT
-* Modelagem de Dados
+- Apache Airflow
+- Processos ETL/ELT
+- Modelagem de dados
+- Integração e transformação de dados
+- Qualidade e organização de dados
+- Construção e orquestração de pipelines
 
-### ☁️ Cloud & Infra
+### 🌐 Desenvolvimento de Sistemas e Web Full Stack
 
-* Cloud Computing (AWS, ORACLE, GCP)
-* Docker
+- HTML5 e CSS3
+- JavaScript e TypeScript
+- Python
+- Django
+- FastAPI
+- Node.js
+- APIs REST
+- Integração entre aplicações e bancos de dados
 
----
+### ☁️ Infraestrutura e computação em nuvem
 
-## 💻 Desenvolvimento Web
+- Docker e Docker Compose
+- Fundamentos de Cloud Computing
+- AWS
+- Oracle Cloud Infrastructure (OCI)
+- Google Cloud Platform (GCP)
+- Git e GitHub
 
-* Python
-* Django
-* SQL
-
-📌 Integração entre **aplicações web + pipelines de dados**
-
----
-
-# 🏅 Certificações na Área de Tecnologia
-
-## 🎓 Formação Técnica e Profissional
-
-* ✔️ **Técnico em Sistemas Embarcados** – Instituto Federal do Rio Grande do Norte (IFRN)
-  📅 160 horas
-
-* ✔️ **Programador Web** – Instituto Federal do Rio Grande do Sul (IFRS)
-  📅 200 horas
-
-* ✔️ **Projeto de Sistemas Web** – Instituto Federal do Rio Grande do Sul (IFRS)
-  📅 30 horas
+*Esta lista reúne tecnologias estudadas e utilizadas em projetos, com diferentes níveis de experiência prática e aprofundamento.*
 
 ---
 
-## 📊 Data Science & Engenharia de Dados
+## 🏅 Certificações e cursos concluídos
 
-* ✔️ **Python para Data Science** – Alura
-  📅 70 horas
+### 🎓 Formação técnica e desenvolvimento
 
-* ✔️ **Python Fundamentos para Análise de Dados 3.0** – Data Science Academy
-  📅 60 horas
+- ✔️ **Técnico em Sistemas Embarcados** — Instituto Federal do Rio Grande do Norte (IFRN), 160 horas.
+- ✔️ **Programador Web** — Instituto Federal do Rio Grande do Sul (IFRS), 200 horas.
+- ✔️ **Projeto de Sistemas Web** — Instituto Federal do Rio Grande do Sul (IFRS), 30 horas.
 
-* ✔️ **Introdução à Ciência de Dados 3.0** – Data Science Academy
-  📅 12 horas
+### ⚙️ Engenharia de Dados e programação
 
-* ✔️ **Fundamentos de Engenharia de Dados** – Data Science Academy
-  📅 24 horas
+- ✔️ **Python para Data Science** — Alura, 70 horas.
+- ✔️ **Python Fundamentos para Análise de Dados 3.0** — Data Science Academy, 60 horas.
+- ✔️ **Introdução à Ciência de Dados 3.0** — Data Science Academy, 12 horas.
+- ✔️ **Fundamentos de Engenharia de Dados** — Data Science Academy, 24 horas.
 
----
+### 📜 Cursos e certificações complementares
 
-## 📜 Outras Certificações
-
-✔️ SQL - Pod Academy
-
-✔️ Python - Pod Academy
-
-✔️ PySpark - Pod Academy
-
-✔️ Hadoop - Pod Academy
-
-✔️ Apache Spark - Pod Academy
+- ✔️ SQL — Pod Academy.
+- ✔️ Python — Pod Academy.
+- ✔️ PySpark — Pod Academy.
+- ✔️ Hadoop — Pod Academy.
+- ✔️ Apache Spark — Pod Academy.
 
 ---
 
-## 📚 Atualmente estudando
+## 📖 Atualmente estudando
 
-* 🔎 SQL (consultas avançadas, otimização e modelagem)
-* ⚙️ Engenharia de Dados
-* 🏗️ Pipelines e processamento distribuído
-* ☁️ Cloud Computing
-* 🐳 Docker
-* 🔄 Apache Airflow
+- 🔎 SQL: consultas, modelagem e otimização.
+- ⚙️ Engenharia de Dados e arquitetura de pipelines.
+- 🔄 Apache Airflow e orquestração de processos.
+- 🐍 Python para automação e processamento de dados.
+- ⚡ Apache Spark e processamento distribuído.
+- 🌐 Desenvolvimento Web Full Stack com Node.js, JavaScript e TypeScript.
+- 🔗 APIs e integração entre aplicações e bancos de dados.
+- 🐳 Docker e conteinerização.
+- ☁️ Fundamentos de computação em nuvem.
 
 ---
 
 ## 📌 Sobre este repositório
 
-Este repositório contém:
+Este GitHub reúne meus projetos práticos, exercícios, estudos e implementações desenvolvidos durante minha formação acadêmica e técnica.
 
-* Projetos práticos
-* Exercícios aplicados
-* Estudos estruturados
-* Implementações reais de conceitos
+O objetivo é registrar minha evolução, consolidar conhecimentos e demonstrar como diferentes tecnologias podem ser utilizadas de forma integrada.
 
-🎯 Foco em:
+Entre os principais temas abordados estão:
 
-* Engenharia de Dados
-* SQL
-* Pipelines
-* Integração com aplicações web
+- Engenharia de Dados e pipelines.
+- SQL e bancos de dados.
+- Desenvolvimento de Sistemas.
+- Desenvolvimento Web Full Stack.
+- APIs e integração entre sistemas.
+- Automação de processos.
+- Arquitetura e infraestrutura de aplicações.
 
----
-
-## 🚀 Diferencial do Portfólio
-
-✔️ Projetos baseados em problemas reais
-
-✔️ Integração entre múltiplas tecnologias
-
-✔️ Arquitetura de dados aplicada
-
-✔️ Evolução contínua (nível iniciante → profissional)
+Os projetos possuem finalidade predominantemente educacional e de construção de portfólio. Quando aplicável, utilizam dados, cenários e problemas inspirados em situações reais, sem que isso implique necessariamente implantação em ambiente de produção ou utilização comercial.
 
 ---
 
-## 🚀 Projeto Principal do Portfólio – Clima RN
+## 🚀 Projeto principal do portfólio — Clima RN
 
-Este projeto representa o **Trabalho Técnico de Conclusão da graduação em Análise e Desenvolvimento de Sistemas (ADS)**, sendo também um dos **principais projetos do meu portfólio em Engenharia de Dados**.
+**Sistema Inteligente de Monitoramento Climático**
 
-A proposta consiste no desenvolvimento de um **pipeline de dados completo**, com foco em coleta, processamento, armazenamento e disponibilização de informações climáticas, integrando conceitos práticos adquiridos ao longo do:
+O Clima RN é um projeto prático que integra Engenharia de Dados e Desenvolvimento de Sistemas, com foco na coleta, no processamento, no armazenamento e na disponibilização de informações climáticas.
 
-* 📘 **Curso Full Stack de Dados – Pod Academy (ênfase em Engenharia de Dados)**
-* 📚 Estudos complementares em SQL, arquitetura de dados e processamento de dados
+A proposta é construir um fluxo de dados automatizado e demonstrar como essas informações podem alimentar aplicações e mecanismos de alerta.
 
-O projeto segue uma arquitetura moderna de dados, estruturada em etapas bem definidas:
+### 🎯 Objetivos do projeto
 
-[ APIs / Dados Externos ]
-            ↓
-        (Extract)
-            ↓
-     Scripts Python
-            ↓
-     (Transformação)
-            ↓
-   Apache Airflow (Orquestração)
-            ↓
-     Banco de Dados (MySQL)
-            ↓
-   Arquivos (CSV / Excel)
-            ↓
- Aplicações Web (Django)
-            ↓
- Visualização / Alertas (Telegram)
+- Automatizar a coleta de dados climáticos de fontes externas.
+- Processar e transformar as informações coletadas.
+- Armazenar os dados de forma estruturada.
+- Orquestrar tarefas e etapas do pipeline.
+- Exportar informações para arquivos CSV e Excel.
+- Disponibilizar dados para consumo por aplicações web.
+- Desenvolver mecanismos de alerta climático, incluindo notificações pelo Telegram.
 
-### 🎯 Objetivo do Projeto
+### 🏗️ Arquitetura conceitual
 
-Desenvolver uma solução capaz de:
+```text
+       APIs e fontes de dados climáticos
+                     |
+                     v
+              Coleta com Python
+                     |
+                     v
+         Transformação e tratamento
+                     |
+                     v
+       Apache Airflow — Orquestração
+                     |
+                     v
+              Banco MySQL
+                     |
+          +----------+----------+
+          |                     |
+          v                     v
+      CSV / Excel         Aplicações Web
+                               |
+                               v
+                         Django / APIs
+                               |
+                 +-------------+-------------+
+                 |                           |
+                 v                           v
+           Visualização                Alertas Telegram
+```
 
-* Automatizar a coleta de dados climáticos em tempo real
-* Realizar transformações e tratamento dos dados
-* Armazenar informações de forma estruturada
-* Disponibilizar os dados para consumo em aplicações web
-* Gerar alertas automatizados (ex: possibilidade de chuva)
+### ⚙️ Tecnologias utilizadas
 
-### ⚙️ Diferenciais
+- Python para coleta, tratamento e automação.
+- Apache Airflow para orquestração do pipeline.
+- MySQL para armazenamento estruturado.
+- CSV e Excel para exportação de dados.
+- Docker e Docker Compose para infraestrutura de desenvolvimento.
+- Django e tecnologias de APIs para integração com aplicações web.
+- Telegram para notificações automatizadas.
 
-* Integração entre **Engenharia de Dados + Desenvolvimento Web**
-* Uso de **Apache Airflow para orquestração (nível profissional)**
-* Pipeline completo **ETL/ELT**
-* Estrutura preparada para evolução em **Cloud e Big Data**
-* Aplicação prática de conceitos aprendidos na **Pod Academy**
+*O diagrama representa a arquitetura conceitual do projeto. A disponibilidade de cada integração depende da implementação correspondente na versão atual.*
 
-### 📌 Status do Projeto
+### 🔗 Como as áreas se complementam no Clima RN
 
-🚧 **Em desenvolvimento contínuo**
+1. **Coleta de dados:** scripts Python obtêm informações de fontes climáticas externas.
+2. **Processamento:** os dados são tratados e organizados.
+3. **Orquestração:** o Apache Airflow coordena as etapas automatizadas.
+4. **Armazenamento:** o MySQL mantém as informações estruturadas.
+5. **Disponibilização:** os dados são exportados ou preparados para consumo por outros sistemas.
+6. **Desenvolvimento de sistemas:** aplicações web podem utilizar essas informações para consultas, visualizações e funcionalidades.
+7. **Alertas:** mecanismos de notificação comunicam informações relevantes.
 
-O projeto está sendo constantemente aprimorado com:
+O projeto demonstra como a Engenharia de Dados pode fornecer informações organizadas para aplicações e como o Desenvolvimento de Sistemas pode transformar essas informações em funcionalidades úteis.
 
-* Novas regras de negócio (ex: probabilidade de chuva com base em umidade e nuvens)
-* Melhorias na arquitetura
-* Integração com novas tecnologias
-* Evolução para padrões utilizados no mercado
+### 📈 Diferenciais de aprendizado
+
+- Integração entre Engenharia de Dados e Desenvolvimento de Sistemas.
+- Aplicação prática de conceitos de ETL.
+- Orquestração de processos com Apache Airflow.
+- Utilização de bancos de dados relacionais.
+- Automação e exportação de informações.
+- Conteinerização do ambiente de desenvolvimento.
+- Possibilidade de evolução para novas fontes de dados, integrações e infraestrutura em nuvem.
+
+### 📌 Status do projeto
+
+🚧 **Em desenvolvimento contínuo.**
+
+O projeto é aprimorado conforme avanço nos estudos, com possibilidade de adicionar novas regras de processamento, melhorias de arquitetura, novas integrações e recursos de monitoramento climático.
+
+O Clima RN representa uma etapa importante da minha evolução técnica e da aplicação prática dos conceitos estudados em Engenharia de Dados e Análise e Desenvolvimento de Sistemas.
 
 ---
 
-📊 Este projeto, conhecido como **Clima RN**, representa na prática minha evolução como futuro **Engenheiro de Dados**, consolidando conhecimentos teóricos em uma aplicação real e escalável.
+## 🌱 Minha visão sobre tecnologia
+
+Acredito que uma solução tecnológica vai além de uma aplicação ou de um pipeline isolado. Seu potencial está na integração entre os componentes que coletam, processam, armazenam, disponibilizam e utilizam informações.
+
+Minha formação em gestão, Engenharia de Produção e gerenciamento de projetos complementa meus estudos em tecnologia, contribuindo para uma compreensão mais ampla de processos, requisitos e objetivos.
+
+Busco desenvolver essa visão por meio de projetos práticos, documentação, estudos técnicos e aprendizado contínuo.
+
+**Desenvolver sistemas que trabalham com dados e construir processos de dados que ampliam as possibilidades dos sistemas: essa é a perspectiva que orienta minha jornada profissional.**
 
 ---
 ## 🌐 Conecte-se comigo
@@ -256,7 +353,8 @@ O projeto está sendo constantemente aprimorado com:
 
 📧 Email: [engenheirodedados.luciofabio@gmail.com](mailto:engenheirodedados.luciofabio@gmail.com)
 
-
+---
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução em tecnologia.
 
 
 
